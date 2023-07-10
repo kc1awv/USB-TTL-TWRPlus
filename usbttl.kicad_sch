@@ -1935,7 +1935,7 @@
     (property "Value" "USBLC6-2SC6" (at 149.86 79.4319 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Package_TO_SOT_SMD:SOT-23-6" (at 120.65 83.82 0)
+    (property "Footprint" "Package_TO_SOT_SMD:SOT-666" (at 120.65 83.82 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://www.st.com/resource/en/datasheet/usblc6-2.pdf" (at 142.24 88.9 0)
