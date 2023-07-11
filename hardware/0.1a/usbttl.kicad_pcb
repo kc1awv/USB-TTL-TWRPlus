@@ -199,6 +199,11 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
+    (model "${KIPRJMOD}/step/USB_type_C_smd_12p.stp"
+      (offset (xyz 0 2.75 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz -90 0 -180))
+    )
   )
 
   (footprint "Diode_SMD:D_MiniMELF" (layer "F.Cu")
